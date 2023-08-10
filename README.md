@@ -1,2 +1,5 @@
 # SoftXCustom
-editing SoftX https://betterdiscord.app/theme/SoftX to my liking
+editing SoftX to my liking
+original can be found at:
+https://betterdiscord.app/theme/SoftX
+https://github.com/DiscordStyles/SoftX
